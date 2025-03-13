@@ -1,0 +1,15 @@
+{
+    "Predicted_Disease": "Multiple Sclerosis",
+    "Confidence_Score": 80,
+    "Description": "An autoimmune disease characterized by demyelination in the central nervous system, with white matter lesions in the periventricular region.",
+    "Possible_Causes": [
+        "Autoimmune response",
+        "Genetic predisposition",
+        "Environmental factors"
+    ],
+    "Recommended_Actions": [
+        "Consult a neurologist for further evaluation",
+        "Conduct additional tests",
+        "Initiate treatment to manage symptoms and slow disease progression"
+    ]
+}

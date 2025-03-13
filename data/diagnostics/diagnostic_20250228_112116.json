@@ -1,0 +1,17 @@
+{
+    "Predicted_Disease": "Meningioma",
+    "Confidence_Score": 90,
+    "Description": "A meningioma is a type of tumor that arises from the meninges, the protective membranes surrounding the brain and spinal cord. It is typically benign (non-cancerous) and can cause symptoms such as headaches, seizures, and cognitive impairment.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Radiation exposure",
+        "Head trauma",
+        "Viral infections"
+    ],
+    "Recommended_Actions": [
+        "Further diagnostic testing",
+        "Surgical resection",
+        "Radiation therapy",
+        "Observation"
+    ]
+}

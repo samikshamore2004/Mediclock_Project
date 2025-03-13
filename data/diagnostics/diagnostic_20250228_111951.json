@@ -1,0 +1,15 @@
+{
+    "Predicted_Disease": "Glioblastoma",
+    "Confidence_Score": 90,
+    "Description": "A large, irregularly shaped mass is visible in the left hemisphere of the brain, causing significant compression of the surrounding brain tissue. The mass is likely a glioblastoma, a type of brain cancer that arises from glial cells.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Environmental factors",
+        "Exposure to certain chemicals or radiation"
+    ],
+    "Recommended_Actions": [
+        "Surgery to remove as much of the tumor as possible",
+        "Radiation therapy",
+        "Chemotherapy"
+    ]
+}

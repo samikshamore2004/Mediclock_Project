@@ -1,0 +1,17 @@
+{
+    "Predicted_Disease": "Glioblastoma Multiforme (GBM)",
+    "Confidence_Score": 90,
+    "Description": "A brain tumor with a mixed signal intensity, located in the left temporal lobe, with a typical appearance for GBM.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Environmental factors",
+        "Viral infections"
+    ],
+    "Recommended_Actions": [
+        "Magnetic Resonance Spectroscopy (MRS)",
+        "Biopsy",
+        "Surgery",
+        "Radiation therapy",
+        "Chemotherapy"
+    ]
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "role": "user",
+        "content": "tell me about spinal"
+    },
+    {
+        "role": "assistant",
+        "content": "Spinal refers to the spinal column or backbone, a collection of 33 vertebrae extending from the base of the skull to the tailbone. It protects the spinal cord, a vital bundle of nerves that transmits messages between the brain and the rest of the body."
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "Predicted_Disease": "Glioblastoma multiforme (GBM)",
+    "Confidence_Score": 80,
+    "Description": "A type of brain cancer that arises from astrocytes, the most aggressive and common type of primary brain cancer.",
+    "Possible_Causes": [
+        "Genetic mutations",
+        "Environmental factors",
+        "Family history"
+    ],
+    "Recommended_Actions": [
+        "Further diagnostic testing",
+        "Surgery",
+        "Radiation therapy",
+        "Chemotherapy",
+        "Clinical trials"
+    ]
+}

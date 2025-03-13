@@ -1,0 +1,15 @@
+{
+    "Date": "23 Jan 99",
+    "Patient": {
+        "Name": "John R. Doe, HM3, USN",
+        "Age": "If under 12, give age"
+    },
+    "Medicines": [
+        {
+            "Type": "Tablet",
+            "Medicine": "Tr Billedonna Amphogel 9 sod",
+            "Dosage": "15 ml 120 ml",
+            "Timings": []
+        }
+    ]
+}
