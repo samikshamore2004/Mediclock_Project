@@ -24,6 +24,23 @@ This project aims to **enhance medication adherence**, making it easier for user
 
 ---
 
+## 🚀 Installation & Setup  
+
+### 1️⃣ Prerequisites  
+Ensure you have the following installed:  
+- **Python (3.8 or later)** – [Download Here](https://www.python.org/downloads/)  
+- **pip (Python package manager)**  
+- **Virtual Environment (Recommended for dependencies)**  
+
+---
+
+### 2️⃣ Clone the Repository  
+Open your terminal or command prompt and run:  
+```bash
+git clone https://github.com/yourusername/Mediclock_Project.git
+cd Mediclock_Project
+
+
 ## 🚀 How It Works  
 1️⃣ Users **set up their medication schedules** by providing prescription details.  
 2️⃣ The system **listens to voice commands** and retrieves relevant medication reminders.  
