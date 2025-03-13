@@ -72,12 +72,12 @@ cd Mediclock_Project
 ---
 
 
-### 🔹 Changes Made:
-✅ Added **Samiksha & Mohini Giri** in the title.  
-✅ Highlighted **both names** in the **Overview** section.  
-✅ Kept **Contributors** section for proper credit.  
+### 🔹 Contributers
+This project was developed by:  
+**Samiksha More  
+**Mohini Giri  
 
-Now, **Mohini Giri's name** is clearly mentioned in multiple sections. Let me know if you need more changes! 🚀
+
 
 ---
 
