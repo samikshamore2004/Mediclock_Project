@@ -36,9 +36,11 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository  
 Open your terminal or command prompt and run:  
-```bash
+
 git clone https://github.com/yourusername/Mediclock_Project.git
 cd Mediclock_Project
+
+---
 
 
 ## 🚀 How It Works  
@@ -48,6 +50,7 @@ cd Mediclock_Project
 4️⃣ Users can **check past prescriptions and medical history** stored in the system.  
 
 ---
+
 
 ## 🖼️ Screenshots  
 ![Screenshot 1](images/Login_page.png)  
@@ -60,6 +63,7 @@ cd Mediclock_Project
 ![Screenshot 7](images/Notification.png)
 
 ---
+
 
 ## 🎯 Conclusion  
 **Mediclock** enhances healthcare accessibility using **AI and automation**. With its **hands-free, voice-assisted approach**, it ensures users—especially elderly patients—can manage their medications effortlessly. The intuitive interface and powerful voice recognition capabilities make **Mediclock a reliable healthcare companion**.  
