@@ -72,10 +72,10 @@ cd Mediclock_Project
 ---
 
 
-### 🔹 Contributers
+### 🤝 Contributers
 This project was developed by:  
-**Samiksha More  
-**Mohini Giri  
+- **Samiksha More  
+- **Mohini Giri  
 
 
 
