@@ -57,6 +57,7 @@ cd Mediclock_Project
 ![Screenshot 2](images/Register_User1.png) 
 ![Screenshot 3](images/Home_Page.png) 
 ![Screenshot 4](images/Prescription_Analysis2.png) 
+![Screenshot 5](images/Image_diag2.png)
 ![Screenshot 5](images/Image_diag3.png) 
 ![Screenshot 6](images/Voice_Assi2.png) 
 ![Screenshot 7](images/Voice_Assi3.png)
